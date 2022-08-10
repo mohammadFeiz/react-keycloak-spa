@@ -1,0 +1,23 @@
+{
+  "name": "react-keycloak-spa",
+  "version": "1.0.0",
+  "description": "```javascript\r import React from 'react';\r import ReactKeycloakSPA from 'react-leycloak-spa';\r import MyApp from './my-app';",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadFeiz/react-keycloak-spa.git"
+  },
+  "dependencies": {
+    "@react-keycloak/web": "^3.4.0",
+    "keycloak-js": "^16.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadFeiz/react-keycloak-spa/issues"
+  },
+  "homepage": "https://github.com/mohammadFeiz/react-keycloak-spa#readme"
+}
