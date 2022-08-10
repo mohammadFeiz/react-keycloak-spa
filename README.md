@@ -1,5 +1,5 @@
 # react-keycloak-spa
-
+# notice: in react 18 dont use StrictMode
 ### start by keycloak and call my init component after autentication
 ```javascript
 import React from 'react';
@@ -32,4 +32,3 @@ class MyApp extends React.Component{
   }
 }
 ```
-
